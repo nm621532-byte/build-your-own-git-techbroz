@@ -28,6 +28,6 @@ Ab `"hello\n"` ko `"hello!\n"` karo: poora hash badal jayega (4effa19f…). Isi 
 
 📚 Full tutorial: https://github.com/codecrafters-io/build-your-own-x#build-your-own-git
 
-🎬 YouTube video: link soon
+🎬 YouTube video: https://www.youtube.com/shorts/aNwJ96VqTqA
 
 Made by Tech Bro Z — YouTube @techbrozdeveloper, Instagram @tech_bro_z_1
